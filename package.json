@@ -10,7 +10,7 @@
   }
   , "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "should": ">=11.1.2"
   }
   , "main": "index"
   , "engines": { "node": "*" }
