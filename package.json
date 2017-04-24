@@ -9,7 +9,7 @@
     "glob": "*"
   }
   , "devDependencies": {
-    "mocha": "*",
+    "mocha": ">=3.3.0",
     "should": "*"
   }
   , "main": "index"
